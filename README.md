@@ -1,0 +1,1 @@
+# stig-windows8
